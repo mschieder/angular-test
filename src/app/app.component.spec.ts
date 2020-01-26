@@ -1,5 +1,7 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import {AccordionModule} from 'primeng/accordion';
+import {SharedModule} from 'primeng/primeng'
 
 describe('AppComponent', () => {
   beforeEach(async(() => {

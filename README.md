@@ -1,3 +1,15 @@
+# PrimeNG customizazitions:
+ng new hjghj
+npm install primeng --save
+npm install primeicons --save
+npm install --save @angular/cdk
+
+export:
+npm install file-saver --save
+npm install xlsx --save
+
+
+
 # TableApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
